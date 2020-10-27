@@ -27,3 +27,16 @@ function register_custom_menu_position() {
 	register_nav_menu('main-menu',__( 'Main Menu' ));
 }
 add_action( 'init', 'register_custom_menu_position' );
+
+/* ADD OPTIONS TO THE WORDPRESS ADMIN PAGE */
+if ( function_exists( 'acf_add_options_page' ) ) {
+	acf_add_options_page(
+			array(
+					'page_title' => 'Opcje Szablonu',
+					'menu_title' => 'Opcje Szablonu',
+					'menu_slug'  => 'options',
+					'capability' => 'edit_posts',
+					'redirect'   => false,
+			)
+	);
+}
