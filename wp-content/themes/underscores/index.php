@@ -1,5 +1,9 @@
 <?php get_header(); ?>
 
-<h1>Hello World - <?php echo bloginfo('name'); ?></h1>
+<div class="wrapper">
+  <main>
+    <?php require_once 'components/slider.php'; ?>
+  </main>
+</div>
 
 <?php get_footer(); ?>

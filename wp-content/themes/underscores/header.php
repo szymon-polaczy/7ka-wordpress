@@ -17,9 +17,7 @@
 				</a>
 			</article>
 			<nav class="main-header--menu">
-				<ul>
-					<?php wp_nav_menu(array('theme_location' => 'main-menu', 'menu' => 'Main Menu')); ?>
-				</ul>
+				<?php wp_nav_menu(array('theme_location' => 'main-menu', 'menu' => 'Main Menu', 'container' => '')); ?>
 			</nav>
 		</header>
 	</div>
