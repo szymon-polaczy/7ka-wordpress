@@ -1,4 +1,4 @@
 # 7ka-wordpress
 
 ### Maybe
-- [ ] slider.php można poprawić chyba kod do slidera
+- [ ] dodaj self-timer do slidera
