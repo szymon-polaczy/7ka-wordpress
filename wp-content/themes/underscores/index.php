@@ -1,0 +1,1 @@
+<h1>Hello World - <?php echo bloginfo('name'); ?></h1>
