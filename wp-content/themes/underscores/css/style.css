@@ -142,6 +142,10 @@ a:hover {
   right: -50px;
 }
 
+.main-footer {
+  margin-top: 5rem;
+}
+
 .main-footer__contact {
   background: #f2f2f2;
 }
@@ -206,4 +210,19 @@ a:hover {
 .main-footer__copyright p {
   padding: .65rem;
   font-size: .9rem;
+}
+
+.wordpress_content {
+  border-top: 1px solid #d1d1d1;
+  margin-top: 30px;
+  padding: 0 20px;
+}
+
+.wordpress_content h2 {
+  color: #2977b5;
+}
+
+.wordpress_content p {
+  color: #737373;
+  list-style: 130%;
 }
