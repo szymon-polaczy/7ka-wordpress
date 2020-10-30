@@ -226,3 +226,14 @@ a:hover {
   color: #737373;
   list-style: 130%;
 }
+
+.page-title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #2977b5;
+}
+
+.page-title h1 {
+  font-size: 36px;
+}
