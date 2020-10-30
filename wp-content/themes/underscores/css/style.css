@@ -238,3 +238,27 @@ a:hover {
 .page-title h1 {
   font-size: 36px;
 }
+
+.contact {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin-top: 30px;
+}
+
+.mapouter {
+  position:relative;
+  text-align:right;
+  height:100%;
+  width:100%;
+}
+
+.gmap_canvas {
+  overflow:hidden;
+  background:none!important;
+  height:100%;
+  width:100%;
+}
+
+.gmap_canvas iframe {
+  min-height: 280px;
+}
