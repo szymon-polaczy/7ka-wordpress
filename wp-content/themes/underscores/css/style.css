@@ -232,6 +232,7 @@ a:hover {
   justify-content: space-between;
   align-items: center;
   color: #2977b5;
+  border-bottom: 1px solid #d1d1d1;
 }
 
 .page-title h1 {
