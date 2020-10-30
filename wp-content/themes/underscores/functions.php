@@ -5,6 +5,7 @@ if ( !function_exists( 'underscores_setup' ) ) {
 		add_theme_support( 'title-tag' );
 		add_theme_support( 'post-thumbnails' );
 		add_image_size('slider', 960, 360, true);
+		add_image_size('product', 500, 500, true);
 		add_theme_support( 'customize-selective-refresh-widgets' );
 	}
 }

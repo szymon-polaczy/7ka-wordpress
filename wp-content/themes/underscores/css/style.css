@@ -262,3 +262,53 @@ a:hover {
 .gmap_canvas iframe {
   min-height: 280px;
 }
+
+.produkt {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.produkt__main-image {
+  position: relative;
+  height: 500px;
+  width: 500px;
+}
+
+.produkt__main-image img {
+  max-width: 500px;
+  max-height: 500px;
+  object-fit: 100%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  opacity: 0;
+  transition: .3s all ease-in-out;
+  padding: 5px;
+}
+
+.produkt__main-image .active-image {
+  opacity: 1;
+}
+
+.produkt__small-gallery {
+  grid-column: 1 / span 2;
+}
+
+.produkt__small-gallery img {
+  max-width: 120px;
+  max-height: 120px;
+  object-fit: contain;
+  margin: 5px;
+  border: 1px solid #d1d1d1;
+}
+
+.produkt__info {
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+}
+
+.produkt__info-parametry {
+  margin: 5px 0;
+}
