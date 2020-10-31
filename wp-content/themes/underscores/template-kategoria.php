@@ -31,8 +31,21 @@
 					<article>
 						<?php echo get_the_post_thumbnail($post->ID, 'product'); ?>
 						<div class="wow fadeInLeft animated">
-							<?php echo '<h2>' . $post->post_title . '</h2><h4>' . get_the_date('d-m-yy', $post->ID) . '</h4>'; ?>
+							<?php echo '<h4>' . $post->post_title . '</h4>'; ?>
 						</div>
+
+						<?php if (have_rows('parametry')) : ?>
+							<table class="product-category__parametry">
+								<?php while(have_rows('parametry')) : the_row(); ?>
+									<tr>
+										<?php $nazwa = get_sub_field('nazwa'); $wartosc = get_sub_field('wartosc'); ?>										<td></td>
+										<td><?php echo $nazwa; ?></td>
+										<td><?php echo $wartosc; ?></td>
+									</tr>
+								<?php endwhile; ?>
+							</table>
+						<?php endif; ?>
+
 						<a href="<?php echo get_the_permalink($post->ID); ?>">Zobacz</a>
 					</article>
 				<?php endwhile; ?>
