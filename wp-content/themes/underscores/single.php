@@ -2,7 +2,7 @@
 
 <div class="wrapper">
   <main>
-    <!--BANNER-->
+    <?php require_once 'components/banner.php'; ?>
     <?php require_once 'components/page-title.php'; ?>
 
     <?php if (have_rows('galeria')) : ?>
@@ -36,6 +36,7 @@
         </article>
 
         <article class="produkt__small-gallery">
+          <h4>Kliknij w miniaturkę aby powiększyć <i class="fas fa-search"></i></h4>
           <?php 
             while(have_rows('galeria')) {
               the_row();

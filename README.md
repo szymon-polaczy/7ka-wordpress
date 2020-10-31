@@ -5,3 +5,4 @@
 
 ### Maybe
 - [ ] dodaj self-timer do slidera
+- [ ] dodaj lightbox do strony produktu (nie chcę żadnego jquery użyć)
