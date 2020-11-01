@@ -58,6 +58,7 @@ img {
 	text-align: center;
 	top: 44px;
 	display: none;
+	z-index: 100;
 }
 
 .main-header--menu li:hover ul,
@@ -247,13 +248,21 @@ img {
 	padding: 0 20px;
 }
 
+.privacy-page .wordpress_content {
+	border-top: none;
+}
+
 .wordpress_content h2 {
 	color: #2977b5;
 }
 
 .wordpress_content p {
 	color: #737373;
-	list-style: 130%;
+	line-height: 130%;
+}
+
+.privacy-page .wordpress_content p {
+	color: #000;
 }
 
 .page-title {
