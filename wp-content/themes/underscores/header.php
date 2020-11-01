@@ -16,8 +16,15 @@
 					<img src="http://localhost/7ka-wordpress/wp-content/uploads/2020/10/logo-modelen.png"/>
 				</a>
 			</article>
+			<button class="main-header--open-menu" onclick="toggle_menu()"><i class="fas fa-bars"></i></button>
 			<nav class="main-header--menu">
 				<?php wp_nav_menu(array('theme_location' => 'main-menu', 'menu' => 'Main Menu', 'container' => '')); ?>
 			</nav>
 		</header>
 	</div>
+
+	<script>
+		function toggle_menu() {
+			document.querySelector('.main-header--menu').classList.toggle('open-menu');
+		}
+	</script>
