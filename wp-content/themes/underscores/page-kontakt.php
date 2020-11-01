@@ -16,6 +16,8 @@
       </article>
       <?php if ($google_map = get_field('google_map', 'option')) echo '<article>'.$google_map.'</article>'; ?>
     </section>
+
+    <?php require_once 'components/wordpress-content.php'; ?>
   </main>
 </div>
 
