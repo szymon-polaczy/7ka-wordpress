@@ -48,7 +48,6 @@ function thumbnail_upscale($default, $orig_w, $orig_h, $new_w, $new_h, $crop)
 {
     if (!$crop) return null; // let the wordpress default function handle this
 
-    $aspect_ratio = $orig_w / $orig_h;
     $size_ratio = max($new_w / $orig_w, $new_h / $orig_h);
 
     $crop_w = round($new_w / $size_ratio);
