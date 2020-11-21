@@ -3,7 +3,7 @@
 <?php get_header(); ?>
 
 <?php if (have_posts()) : ?>
-  <?php while(have_posts()) : the_post();/* echo $product;*/ ?>
+  <?php while(have_posts()) : the_post(); ?>
 
     <div class="wrapper">
       <main>
@@ -28,18 +28,6 @@
             <article class="produkt__info">
               <?php if ($short_description = apply_filters( 'woocommerce_short_description', $post->post_excerpt ))
                 echo $short_description; ?>
-              <?php
-                if (have_rows('parametry')) {
-                  while(have_rows('parametry')) {
-                    the_row();
-
-                    $nazwa = get_sub_field('nazwa');
-                    $wartosc = get_sub_field('wartosc');
-
-                    echo '<p class="produkt__info-parametry"><b>'.$nazwa.': </b>'.$wartosc.'</p>';
-                  }
-                }
-              ?>
 
               <?php $product_attributes = $product->get_attributes();?>
               <?php if ($product_attributes) : ?>
@@ -52,6 +40,12 @@
                   <?php endforeach; ?>
                 </table>
               <?php endif; ?>
+
+              <p class="<?php echo esc_attr( apply_filters( 'woocommerce_product_price_class', 'price' ) ); ?>">
+                <?php echo $product->get_price_html(); ?>
+              </p>
+
+              <?php woocommerce_template_single_add_to_cart() ?>
             </article>
 
             <article class="produkt__small-gallery">

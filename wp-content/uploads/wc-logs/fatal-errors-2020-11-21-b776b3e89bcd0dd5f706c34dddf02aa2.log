@@ -307,3 +307,21 @@ Stack trace:
 
 2020-11-21T15:45:03+00:00 CRITICAL Object of class WP_Error could not be converted to string w D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\page.php w linii 28
 
+2020-11-21T16:33:36+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\page.php:39
+Stack trace:
+#0 D:\XAMPP\htdocs\7ka-wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\XAMPP\htdocs\7ka-wordpress\wp-blog-header.php(19): require_once('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\7ka-wordpress\index.php(17): require('D:\\XAMPP\\htdocs...')
+#3 {main}
+  thrown w D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\page.php w linii 39
+
+2020-11-21T16:33:42+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\page.php:39
+Stack trace:
+#0 D:\XAMPP\htdocs\7ka-wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\XAMPP\htdocs\7ka-wordpress\wp-blog-header.php(19): require_once('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\7ka-wordpress\index.php(17): require('D:\\XAMPP\\htdocs...')
+#3 {main}
+  thrown w D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\page.php w linii 39
+
+2020-11-21T18:21:20+00:00 CRITICAL syntax error, unexpected '<', expecting end of file w D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\page-my-account.php w linii 3
+
