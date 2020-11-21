@@ -1,0 +1,309 @@
+2020-11-21T13:14:31+00:00 CRITICAL Uncaught Error: Call to a member function get_image_id() on string in D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php:33
+Stack trace:
+#0 D:\XAMPP\htdocs\7ka-wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\XAMPP\htdocs\7ka-wordpress\wp-blog-header.php(19): require_once('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\7ka-wordpress\index.php(17): require('D:\\XAMPP\\htdocs...')
+#3 {main}
+  thrown in D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php on line 33
+
+2020-11-21T13:19:33+00:00 CRITICAL Uncaught Error: Call to a member function get_image_id() on string in D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php:28
+Stack trace:
+#0 D:\XAMPP\htdocs\7ka-wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\XAMPP\htdocs\7ka-wordpress\wp-blog-header.php(19): require_once('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\7ka-wordpress\index.php(17): require('D:\\XAMPP\\htdocs...')
+#3 {main}
+  thrown w D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php w linii 28
+
+2020-11-21T13:20:01+00:00 CRITICAL Uncaught Error: Call to a member function get_image_id() on string in D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php:30
+Stack trace:
+#0 D:\XAMPP\htdocs\7ka-wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\XAMPP\htdocs\7ka-wordpress\wp-blog-header.php(19): require_once('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\7ka-wordpress\index.php(17): require('D:\\XAMPP\\htdocs...')
+#3 {main}
+  thrown w D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php w linii 30
+
+2020-11-21T13:24:02+00:00 CRITICAL Uncaught Error: Call to a member function get_image_id() on string in D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php:2
+Stack trace:
+#0 D:\XAMPP\htdocs\7ka-wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\XAMPP\htdocs\7ka-wordpress\wp-blog-header.php(19): require_once('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\7ka-wordpress\index.php(17): require('D:\\XAMPP\\htdocs...')
+#3 {main}
+  thrown w D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php w linii 2
+
+2020-11-21T13:28:13+00:00 CRITICAL Uncaught Error: Call to a member function get_image_id() on string in D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php:2
+Stack trace:
+#0 D:\XAMPP\htdocs\7ka-wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\XAMPP\htdocs\7ka-wordpress\wp-blog-header.php(19): require_once('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\7ka-wordpress\index.php(17): require('D:\\XAMPP\\htdocs...')
+#3 {main}
+  thrown w D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php w linii 2
+
+2020-11-21T13:28:14+00:00 CRITICAL Uncaught Error: Call to a member function get_image_id() on string in D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php:2
+Stack trace:
+#0 D:\XAMPP\htdocs\7ka-wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\XAMPP\htdocs\7ka-wordpress\wp-blog-header.php(19): require_once('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\7ka-wordpress\index.php(17): require('D:\\XAMPP\\htdocs...')
+#3 {main}
+  thrown w D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php w linii 2
+
+2020-11-21T13:28:15+00:00 CRITICAL Uncaught Error: Call to a member function get_image_id() on string in D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php:2
+Stack trace:
+#0 D:\XAMPP\htdocs\7ka-wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\XAMPP\htdocs\7ka-wordpress\wp-blog-header.php(19): require_once('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\7ka-wordpress\index.php(17): require('D:\\XAMPP\\htdocs...')
+#3 {main}
+  thrown w D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php w linii 2
+
+2020-11-21T13:28:16+00:00 CRITICAL Uncaught Error: Call to a member function get_image_id() on string in D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php:2
+Stack trace:
+#0 D:\XAMPP\htdocs\7ka-wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\XAMPP\htdocs\7ka-wordpress\wp-blog-header.php(19): require_once('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\7ka-wordpress\index.php(17): require('D:\\XAMPP\\htdocs...')
+#3 {main}
+  thrown w D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php w linii 2
+
+2020-11-21T13:28:49+00:00 CRITICAL Uncaught Error: Call to a member function get_image_id() on string in D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php:2
+Stack trace:
+#0 D:\XAMPP\htdocs\7ka-wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\XAMPP\htdocs\7ka-wordpress\wp-blog-header.php(19): require_once('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\7ka-wordpress\index.php(17): require('D:\\XAMPP\\htdocs...')
+#3 {main}
+  thrown w D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php w linii 2
+
+2020-11-21T13:29:10+00:00 CRITICAL Uncaught Error: Call to a member function get_image_id() on string in D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php:2
+Stack trace:
+#0 D:\XAMPP\htdocs\7ka-wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\XAMPP\htdocs\7ka-wordpress\wp-blog-header.php(19): require_once('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\7ka-wordpress\index.php(17): require('D:\\XAMPP\\htdocs...')
+#3 {main}
+  thrown w D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php w linii 2
+
+2020-11-21T13:30:56+00:00 CRITICAL Uncaught Error: Call to a member function get_image_id() on string in D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php:2
+Stack trace:
+#0 D:\XAMPP\htdocs\7ka-wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\XAMPP\htdocs\7ka-wordpress\wp-blog-header.php(19): require_once('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\7ka-wordpress\index.php(17): require('D:\\XAMPP\\htdocs...')
+#3 {main}
+  thrown w D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php w linii 2
+
+2020-11-21T13:30:57+00:00 CRITICAL Uncaught Error: Call to a member function get_image_id() on string in D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php:2
+Stack trace:
+#0 D:\XAMPP\htdocs\7ka-wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\XAMPP\htdocs\7ka-wordpress\wp-blog-header.php(19): require_once('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\7ka-wordpress\index.php(17): require('D:\\XAMPP\\htdocs...')
+#3 {main}
+  thrown w D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php w linii 2
+
+2020-11-21T13:30:58+00:00 CRITICAL Uncaught Error: Call to a member function get_image_id() on string in D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php:2
+Stack trace:
+#0 D:\XAMPP\htdocs\7ka-wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\XAMPP\htdocs\7ka-wordpress\wp-blog-header.php(19): require_once('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\7ka-wordpress\index.php(17): require('D:\\XAMPP\\htdocs...')
+#3 {main}
+  thrown w D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php w linii 2
+
+2020-11-21T13:30:58+00:00 CRITICAL Uncaught Error: Call to a member function get_image_id() on string in D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php:2
+Stack trace:
+#0 D:\XAMPP\htdocs\7ka-wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\XAMPP\htdocs\7ka-wordpress\wp-blog-header.php(19): require_once('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\7ka-wordpress\index.php(17): require('D:\\XAMPP\\htdocs...')
+#3 {main}
+  thrown w D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php w linii 2
+
+2020-11-21T13:30:58+00:00 CRITICAL Uncaught Error: Call to a member function get_image_id() on string in D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php:2
+Stack trace:
+#0 D:\XAMPP\htdocs\7ka-wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\XAMPP\htdocs\7ka-wordpress\wp-blog-header.php(19): require_once('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\7ka-wordpress\index.php(17): require('D:\\XAMPP\\htdocs...')
+#3 {main}
+  thrown w D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php w linii 2
+
+2020-11-21T13:30:58+00:00 CRITICAL Uncaught Error: Call to a member function get_image_id() on string in D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php:2
+Stack trace:
+#0 D:\XAMPP\htdocs\7ka-wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\XAMPP\htdocs\7ka-wordpress\wp-blog-header.php(19): require_once('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\7ka-wordpress\index.php(17): require('D:\\XAMPP\\htdocs...')
+#3 {main}
+  thrown w D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php w linii 2
+
+2020-11-21T13:31:19+00:00 CRITICAL Uncaught Error: Call to a member function get_image_id() on string in D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php:3
+Stack trace:
+#0 D:\XAMPP\htdocs\7ka-wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\XAMPP\htdocs\7ka-wordpress\wp-blog-header.php(19): require_once('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\7ka-wordpress\index.php(17): require('D:\\XAMPP\\htdocs...')
+#3 {main}
+  thrown w D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php w linii 3
+
+2020-11-21T13:35:08+00:00 CRITICAL Uncaught Error: Call to a member function get_image_id() on string in D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php:3
+Stack trace:
+#0 D:\XAMPP\htdocs\7ka-wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\XAMPP\htdocs\7ka-wordpress\wp-blog-header.php(19): require_once('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\7ka-wordpress\index.php(17): require('D:\\XAMPP\\htdocs...')
+#3 {main}
+  thrown w D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php w linii 3
+
+2020-11-21T13:35:09+00:00 CRITICAL Uncaught Error: Call to a member function get_image_id() on string in D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php:3
+Stack trace:
+#0 D:\XAMPP\htdocs\7ka-wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\XAMPP\htdocs\7ka-wordpress\wp-blog-header.php(19): require_once('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\7ka-wordpress\index.php(17): require('D:\\XAMPP\\htdocs...')
+#3 {main}
+  thrown w D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php w linii 3
+
+2020-11-21T13:39:16+00:00 CRITICAL Uncaught Error: Call to a member function get_image_id() on string in D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php:3
+Stack trace:
+#0 D:\XAMPP\htdocs\7ka-wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\XAMPP\htdocs\7ka-wordpress\wp-blog-header.php(19): require_once('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\7ka-wordpress\index.php(17): require('D:\\XAMPP\\htdocs...')
+#3 {main}
+  thrown w D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php w linii 3
+
+2020-11-21T13:39:27+00:00 CRITICAL Uncaught Error: Call to a member function get_type() on string in D:\XAMPP\htdocs\7ka-wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php:1616
+Stack trace:
+#0 D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php(1): woocommerce_template_single_add_to_cart()
+#1 D:\XAMPP\htdocs\7ka-wordpress\wp-includes\template-loader.php(106): include('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\7ka-wordpress\wp-blog-header.php(19): require_once('D:\\XAMPP\\htdocs...')
+#3 D:\XAMPP\htdocs\7ka-wordpress\index.php(17): require('D:\\XAMPP\\htdocs...')
+#4 {main}
+  thrown w D:\XAMPP\htdocs\7ka-wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php w linii 1616
+
+2020-11-21T13:40:59+00:00 CRITICAL Uncaught Error: Call to a member function get_type() on string in D:\XAMPP\htdocs\7ka-wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php:1616
+Stack trace:
+#0 D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php(1): woocommerce_template_single_add_to_cart()
+#1 D:\XAMPP\htdocs\7ka-wordpress\wp-includes\template-loader.php(106): include('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\7ka-wordpress\wp-blog-header.php(19): require_once('D:\\XAMPP\\htdocs...')
+#3 D:\XAMPP\htdocs\7ka-wordpress\index.php(17): require('D:\\XAMPP\\htdocs...')
+#4 {main}
+  thrown w D:\XAMPP\htdocs\7ka-wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php w linii 1616
+
+2020-11-21T13:46:19+00:00 CRITICAL Uncaught Error: Call to a member function get_image_id() on string in D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php:12
+Stack trace:
+#0 D:\XAMPP\htdocs\7ka-wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\XAMPP\htdocs\7ka-wordpress\wp-blog-header.php(19): require_once('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\7ka-wordpress\index.php(17): require('D:\\XAMPP\\htdocs...')
+#3 {main}
+  thrown w D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php w linii 12
+
+2020-11-21T13:46:57+00:00 CRITICAL Uncaught Error: Call to a member function get_image_id() on string in D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php:2
+Stack trace:
+#0 D:\XAMPP\htdocs\7ka-wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\XAMPP\htdocs\7ka-wordpress\wp-blog-header.php(19): require_once('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\7ka-wordpress\index.php(17): require('D:\\XAMPP\\htdocs...')
+#3 {main}
+  thrown w D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php w linii 2
+
+2020-11-21T13:47:04+00:00 CRITICAL Uncaught Error: Call to a member function get_image_id() on string in D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php:12
+Stack trace:
+#0 D:\XAMPP\htdocs\7ka-wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\XAMPP\htdocs\7ka-wordpress\wp-blog-header.php(19): require_once('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\7ka-wordpress\index.php(17): require('D:\\XAMPP\\htdocs...')
+#3 {main}
+  thrown w D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php w linii 12
+
+2020-11-21T13:47:13+00:00 CRITICAL Uncaught Error: Call to a member function get_image_id() on string in D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php:12
+Stack trace:
+#0 D:\XAMPP\htdocs\7ka-wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\XAMPP\htdocs\7ka-wordpress\wp-blog-header.php(19): require_once('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\7ka-wordpress\index.php(17): require('D:\\XAMPP\\htdocs...')
+#3 {main}
+  thrown w D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php w linii 12
+
+2020-11-21T13:47:53+00:00 CRITICAL Uncaught Error: Call to a member function get_image_id() on string in D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php:14
+Stack trace:
+#0 D:\XAMPP\htdocs\7ka-wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\XAMPP\htdocs\7ka-wordpress\wp-blog-header.php(19): require_once('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\7ka-wordpress\index.php(17): require('D:\\XAMPP\\htdocs...')
+#3 {main}
+  thrown w D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php w linii 14
+
+2020-11-21T13:48:18+00:00 CRITICAL Uncaught Error: Call to a member function get_image_id() on string in D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php:5
+Stack trace:
+#0 D:\XAMPP\htdocs\7ka-wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\XAMPP\htdocs\7ka-wordpress\wp-blog-header.php(19): require_once('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\7ka-wordpress\index.php(17): require('D:\\XAMPP\\htdocs...')
+#3 {main}
+  thrown w D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php w linii 5
+
+2020-11-21T13:48:34+00:00 CRITICAL Uncaught Error: Call to a member function get_image_id() on string in D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php:5
+Stack trace:
+#0 D:\XAMPP\htdocs\7ka-wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\XAMPP\htdocs\7ka-wordpress\wp-blog-header.php(19): require_once('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\7ka-wordpress\index.php(17): require('D:\\XAMPP\\htdocs...')
+#3 {main}
+  thrown w D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php w linii 5
+
+2020-11-21T13:48:41+00:00 CRITICAL Uncaught Error: Call to a member function get_image_id() on string in D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php:4
+Stack trace:
+#0 D:\XAMPP\htdocs\7ka-wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\XAMPP\htdocs\7ka-wordpress\wp-blog-header.php(19): require_once('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\7ka-wordpress\index.php(17): require('D:\\XAMPP\\htdocs...')
+#3 {main}
+  thrown w D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php w linii 4
+
+2020-11-21T13:48:46+00:00 CRITICAL Uncaught Error: Call to a member function get_image_id() on string in D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php:4
+Stack trace:
+#0 D:\XAMPP\htdocs\7ka-wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\XAMPP\htdocs\7ka-wordpress\wp-blog-header.php(19): require_once('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\7ka-wordpress\index.php(17): require('D:\\XAMPP\\htdocs...')
+#3 {main}
+  thrown w D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php w linii 4
+
+2020-11-21T13:48:56+00:00 CRITICAL Uncaught Error: Call to a member function get_image_id() on string in D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php:4
+Stack trace:
+#0 D:\XAMPP\htdocs\7ka-wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\XAMPP\htdocs\7ka-wordpress\wp-blog-header.php(19): require_once('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\7ka-wordpress\index.php(17): require('D:\\XAMPP\\htdocs...')
+#3 {main}
+  thrown w D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php w linii 4
+
+2020-11-21T13:49:26+00:00 CRITICAL Uncaught Error: Call to a member function get_image_id() on string in D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php:5
+Stack trace:
+#0 D:\XAMPP\htdocs\7ka-wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\XAMPP\htdocs\7ka-wordpress\wp-blog-header.php(19): require_once('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\7ka-wordpress\index.php(17): require('D:\\XAMPP\\htdocs...')
+#3 {main}
+  thrown w D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php w linii 5
+
+2020-11-21T13:49:41+00:00 CRITICAL Uncaught Error: Call to a member function get_image_id() on string in D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php:5
+Stack trace:
+#0 D:\XAMPP\htdocs\7ka-wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\XAMPP\htdocs\7ka-wordpress\wp-blog-header.php(19): require_once('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\7ka-wordpress\index.php(17): require('D:\\XAMPP\\htdocs...')
+#3 {main}
+  thrown w D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php w linii 5
+
+2020-11-21T14:21:46+00:00 CRITICAL Uncaught Error: Call to undefined function wp_get_attachment_attr() in D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php:19
+Stack trace:
+#0 D:\XAMPP\htdocs\7ka-wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\XAMPP\htdocs\7ka-wordpress\wp-blog-header.php(19): require_once('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\7ka-wordpress\index.php(17): require('D:\\XAMPP\\htdocs...')
+#3 {main}
+  thrown w D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\single-product.php w linii 19
+
+2020-11-21T15:25:59+00:00 CRITICAL Object of class WP_Error could not be converted to string w D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\template-kategoria.php w linii 15
+
+2020-11-21T15:26:33+00:00 CRITICAL Object of class WP_Error could not be converted to string w D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\template-kategoria.php w linii 15
+
+2020-11-21T15:26:38+00:00 CRITICAL Object of class WP_Error could not be converted to string w D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\template-kategoria.php w linii 15
+
+2020-11-21T15:26:58+00:00 CRITICAL Object of class WP_Error could not be converted to string w D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\template-kategoria.php w linii 15
+
+2020-11-21T15:27:00+00:00 CRITICAL Object of class WP_Error could not be converted to string w D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\template-kategoria.php w linii 15
+
+2020-11-21T15:27:00+00:00 CRITICAL Object of class WP_Error could not be converted to string w D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\template-kategoria.php w linii 15
+
+2020-11-21T15:27:00+00:00 CRITICAL Object of class WP_Error could not be converted to string w D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\template-kategoria.php w linii 15
+
+2020-11-21T15:28:26+00:00 CRITICAL Object of class WP_Error could not be converted to string w D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\template-kategoria.php w linii 15
+
+2020-11-21T15:28:42+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_term_link(), 0 passed in D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\template-kategoria.php on line 15 and at least 1 expected in D:\XAMPP\htdocs\7ka-wordpress\wp-includes\taxonomy.php:4303
+Stack trace:
+#0 D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\template-kategoria.php(15): get_term_link()
+#1 D:\XAMPP\htdocs\7ka-wordpress\wp-includes\template-loader.php(106): include('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\7ka-wordpress\wp-blog-header.php(19): require_once('D:\\XAMPP\\htdocs...')
+#3 D:\XAMPP\htdocs\7ka-wordpress\index.php(17): require('D:\\XAMPP\\htdocs...')
+#4 {main}
+  thrown w D:\XAMPP\htdocs\7ka-wordpress\wp-includes\taxonomy.php w linii 4303
+
+2020-11-21T15:45:03+00:00 CRITICAL Object of class WP_Error could not be converted to string w D:\XAMPP\htdocs\7ka-wordpress\wp-content\themes\underscores\page.php w linii 28
+

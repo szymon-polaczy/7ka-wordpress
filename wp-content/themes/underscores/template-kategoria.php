@@ -1,6 +1,20 @@
 <?php /* Template Name: Kategoria */ ?>
 <?php get_header(); ?>
 
+<?php get_header(); ?>
+
+<?php 
+		$taxonomies = get_terms( array(
+			'taxonomy' => 'product_cat',
+			'hide_empty' => true,
+			'parent' => 0
+		) );
+echo '<pre>';
+		echo get_term_link($taxonomies[1]);
+		echo '</pre>';
+		?>
+
+
 
 
 <?php
